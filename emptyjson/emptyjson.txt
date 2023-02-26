@@ -1,2 +1,0 @@
-testjson/empty.json
-testjson/empty2.json
